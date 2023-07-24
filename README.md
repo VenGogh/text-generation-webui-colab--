@@ -1,8 +1,16 @@
+#A colab gradio web UI for running Large Language Models🚀🚀🚀
+#在Google Colab 上使用web UI运行大型语言模型🔥🔥🔥
+
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ## 🚦 WIP 🚦
+##Who to Use:
+##Click * Opne In Colab* on left，then run it on your own Colab
+##
+快速上手：
+##点击左侧* Opne In Colab*，然后在自己的Colab里运行Notebook
 
 ## 🦒 Colab
 | colab | Info - Model Page
